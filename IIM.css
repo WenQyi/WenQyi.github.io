@@ -14,8 +14,6 @@ body {
   background-repeat: no-repeat;
   background-color: #000000;
   background-size: 100%;
-  top: 0;
-  left: 0;
   width: 100%;
   height: 100%;
   background-attachment: local;
@@ -41,9 +39,7 @@ h2 {
 .Personnages {
   background-color: rgb(107, 0, 0);
 }
-.line {
-  font-size: 1%;
-}
+
 .LCD {
   text-align: center;
   margin: 100px;
