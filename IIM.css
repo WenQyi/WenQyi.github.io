@@ -26,6 +26,9 @@ h1 {
   -webkit-text-stroke: 0.1px black;
   background-color: rgb(107, 0, 0);
 }
+.ligne{
+  text-decoration: none;
+}
 h2 {
   font-size: 75px;
   font-style: italic;
