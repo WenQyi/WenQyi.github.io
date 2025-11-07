@@ -5,6 +5,10 @@
   font-family: "Pathway Gothic One", sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 body {
   background-image: url("IMG/DanteStar.jpg");
   background-repeat: no-repeat;
